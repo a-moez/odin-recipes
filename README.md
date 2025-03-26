@@ -1,0 +1,1 @@
+This is a recipe website based on the HTML practice in the odin project curriculum
